@@ -1,3 +1,5 @@
+Count: 743 of 2600 characters. Paste only the text below the dashes.
+-----
 Product leader building AI agents and onchain finance. Based in New York.
 
 I co-founded Full Sail, Sui's first exchange with dynamic fees ($497M in volume and $1.03M in fees), and Savvy DeFi, an Arbitrum lending protocol. Before that I was an early engineer at EliseAI. I studied computer science at Yale and was a researcher at CERN.

@@ -1,4 +1,4 @@
-Paste order (LinkedIn profile editor). Paste each file's text only; this file is not pasted.
+Paste order (LinkedIn profile editor). Paste only the text below the dashes line in each file; this file is not pasted.
 
 1. headline.txt -> Headline
 2. about.txt -> About
@@ -6,8 +6,8 @@ Paste order (LinkedIn profile editor). Paste each file's text only; this file is
 4. experience-savvy-defi.txt -> Experience: Savvy DeFi
 5. experience-eliseai.txt -> Experience: EliseAI
 
-Character counts: each field file has a companion <name>.count.txt (not pasted) stating its
-count against the limit, so the pasted text stays clean. Counts exclude the final newline:
+Character counts: each field file states its own count on its first line (the count covers only
+the text below the dashes, excluding the final newline), e.g.
 headline 138 of 220; about 743 of 2600; full-sail 187; savvy-defi 53; eliseai 23 (each of 2000).
 
 Fact check. Every claim in the files comes from the profile README.md in this repo
