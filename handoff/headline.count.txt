@@ -1,0 +1,2 @@
+Character count for headline.txt (excluding the final newline): 138 of 220.
+This file is not pasted.

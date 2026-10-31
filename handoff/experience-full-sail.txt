@@ -1,0 +1,3 @@
+Co-founder, Full Sail
+
+Sui's first exchange with dynamic fees: $497M in volume and $1.03M in fees. Concentrated-liquidity contracts are open source at github.com/LFBuild/FullSail-CLMM-SC.

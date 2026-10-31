@@ -1,0 +1,2 @@
+Character count for about.txt (excluding the final newline): 743 of 2600.
+This file is not pasted.

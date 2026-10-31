@@ -1,0 +1,29 @@
+Paste order (LinkedIn profile editor). Paste each file's text only; this file is not pasted.
+
+1. headline.txt -> Headline
+2. about.txt -> About
+3. experience-full-sail.txt -> Experience: Full Sail
+4. experience-savvy-defi.txt -> Experience: Savvy DeFi
+5. experience-eliseai.txt -> Experience: EliseAI
+
+Character counts: each field file has a companion <name>.count.txt (not pasted) stating its
+count against the limit, so the pasted text stays clean. Counts exclude the final newline:
+headline 138 of 220; about 743 of 2600; full-sail 187; savvy-defi 53; eliseai 23 (each of 2000).
+
+Fact check. Every claim in the files comes from the profile README.md in this repo
+(the only source; nothing was verified outside it):
+- Product leader, AI agents and onchain finance, New York: README line 3.
+- Co-founder of Full Sail (Sui DEX) and Savvy DeFi (Arbitrum lending); early engineer at
+  EliseAI; Yale CS; former CERN researcher: README lines 3-4.
+- Full Sail: first exchange with dynamic fees on Sui, $497M volume, $1.03M fees, contracts at
+  github.com/LFBuild/FullSail-CLMM-SC: README "Start here" list.
+- defi-agent-evals: 56% to 100% on 50 tasks, graded by code; multi-agent system on DBOS with
+  human approval and no agent access to money or signing keys: README "Start here" list.
+Yale and CERN appear only in the About and headline, not as experience entries; the README
+lists three roles (Full Sail, Savvy DeFi, EliseAI), one file each.
+
+Still to do before pasting:
+- Dates, titles and company pages are NOT in the README; confirm them in the editor.
+- Savvy DeFi and EliseAI have no detail in the README, so those files are title lines only.
+- The limits (220, 2600, 2000) are observed by research, not LinkedIn-published; recheck them
+  in the live editor. This could not be done here (no access).

@@ -1,0 +1,7 @@
+Product leader building AI agents and onchain finance. Based in New York.
+
+I co-founded Full Sail, Sui's first exchange with dynamic fees ($497M in volume and $1.03M in fees), and Savvy DeFi, an Arbitrum lending protocol. Before that I was an early engineer at EliseAI. I studied computer science at Yale and was a researcher at CERN.
+
+Recent work: defi-agent-evals, a Claude agent for DeFi math graded by code instead of opinion. Three fixes found by reading failures took it from 56% to 100% on 50 tasks. I also run a private multi-agent system on DBOS durable workflows. Agents research, draft and ship code daily; a human approves every send or deploy, and no agent touches money or signing keys.
+
+More at glupta.com and github.com/glupta.
