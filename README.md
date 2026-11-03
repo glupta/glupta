@@ -13,7 +13,7 @@ Product leader and two-time exited founder. Yale CS, former CERN researcher. New
 
 ### Apps (live; code private)
 
-- [Hadron Hold'em](https://hadronholdem.com): Texas Hold'em rebuilt from the Standard Model of particle physics, with physicist Helio Takai. 1,000 decks sold.
+- [Hadron Hold'em](https://hadronholdem.com): Texas Hold'em rebuilt from the Standard Model of particle physics, with physicist Helio Takai.
 - [MINDSET](https://mindset-app-mu.vercel.app): a meditation partner. Sit live together, check in when you can't, and an AI guide fills the gaps.
 - [Girl Math](https://girlmath.cash) (demo): deposit USDC once and spend only the yield, priced in iced matchas.
 
