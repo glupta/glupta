@@ -1,0 +1,17 @@
+name: main-lint
+
+# Post-merge lint check: two goals can each pass lint alone and still break it together.
+on:
+  push:
+    branches: [main]
+
+jobs:
+  ruff:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: workflows
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v5
+      - run: uv run --locked ruff check .
